@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971636507481",
+    "project_id": "carplate-firebase",
+    "storage_bucket": "carplate-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971636507481:android:f499f2842addb441a04248",
+        "android_client_info": {
+          "package_name": "com.example.flut_camera_pages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971636507481-01pt2p89mo5iss9lsntv8qnap7bc1ucp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmeBgsAkfsO0h4Q_qBzjPcSHmm0RcQnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971636507481-01pt2p89mo5iss9lsntv8qnap7bc1ucp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
